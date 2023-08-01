@@ -5,6 +5,15 @@
 
 - 👯 I’m looking to collaborate on **back end projects using node.js and sequalize**
 
+<h3 align="left"> About me: </h3>
+<p align="left"> 
+    Full Stack Web Developer 
+
+Experienced professional in Customer Service and Logistics with a passion for problem-solving and technology. Transitioning into a career as a Full Stack Web Developer after completing an intensive Bootcamp. Eager to apply my adaptable nature and attention to detail to create innovative solutions.
+
+Let's connect and explore opportunities in web development!
+     </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gilberto-andres-casta%c3%b1o-rivera-04bab6251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gilberto-andres-casta%c3%b1o-rivera-04bab6251/" height="30" width="40" /></a>
