@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gilberto Castaño</h1>
 <h3 align="center">Full Stack Web Developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Solvo Global**
+- 🔭 I’m currently working on **Fusion BPO**
 
-- 👯 I’m looking to collaborate on **back end projects using node.js and sequalize**
+- 👯 I’m looking to collaborate on **Full stack web developement projects using node JS and Angular or React**
 
 <h3 align="left"> About me: </h3>
 <p align="left"> 
